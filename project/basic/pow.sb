@@ -1,0 +1,4 @@
+10 REM Квадрат числа
+20 INPUT A
+30 LET C = A * A
+40 END
